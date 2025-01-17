@@ -230,6 +230,3461 @@
                   "name": "OLKEJULENDERIT"
                 }
               ]
+            },
+            {
+              "id": 71462,
+              "name": "MATEVES",
+              "postcode": "23221",
+              "streets": [
+                {
+                  "id": 71464,
+                  "name": "LEMUGUR"
+                },
+                {
+                  "id": 71463,
+                  "name": "NGORBOB"
+                }
+              ]
+            },
+            {
+              "id": 71448,
+              "name": "MLANGARINI",
+              "postcode": "23218",
+              "streets": [
+                {
+                  "id": 71450,
+                  "name": "KISERIAN"
+                },
+                {
+                  "id": 71451,
+                  "name": "MANYIRE"
+                },
+                {
+                  "id": 71449,
+                  "name": "MLANGARINI"
+                }
+              ]
+            },
+            {
+              "id": 71447,
+              "name": "MOIVO",
+              "postcode": "23217",
+              "streets": [
+                {
+                  "id": 110111,
+                  "name": "ILKILORIT"
+                },
+                {
+                  "id": 110674,
+                  "name": "MOIVO"
+                },
+                {
+                  "id": 110672,
+                  "name": "OLORESHO"
+                },
+                {
+                  "id": 110673,
+                  "name": "SAMA"
+                }
+              ]
+            },
+            {
+              "id": 71405,
+              "name": "MUSA",
+              "postcode": "23205",
+              "streets": [
+                {
+                  "id": 71409,
+                  "name": "LIKAMBA"
+                },
+                {
+                  "id": 71407,
+                  "name": "NENGUNG'U"
+                },
+                {
+                  "id": 71408,
+                  "name": "OLCHOROVUS"
+                },
+                {
+                  "id": 71406,
+                  "name": "OLOITUSHULA"
+                }
+              ]
+            },
+            {
+              "id": 71392,
+              "name": "MWANDET",
+              "postcode": "23202",
+              "streets": [
+                {
+                  "id": 71395,
+                  "name": "ENGALAONI"
+                },
+                {
+                  "id": 71396,
+                  "name": "ENGURTOTO"
+                },
+                {
+                  "id": 71393,
+                  "name": "IMBIBIA"
+                },
+                {
+                  "id": 71394,
+                  "name": "LOSIKITO"
+                }
+              ]
+            },
+            {
+              "id": 71452,
+              "name": "NDURUMA",
+              "postcode": "23219",
+              "streets": [
+                {
+                  "id": 71456,
+                  "name": "MAJI MOTO"
+                },
+                {
+                  "id": 71455,
+                  "name": "MARURANI"
+                },
+                {
+                  "id": 71453,
+                  "name": "NDURUMA"
+                },
+                {
+                  "id": 71454,
+                  "name": "SAMARIA"
+                }
+              ]
+            },
+            {
+              "id": 71401,
+              "name": "OLDONYOSAMBU",
+              "postcode": "23204",
+              "streets": [
+                {
+                  "id": 71404,
+                  "name": "LEMANDA"
+                },
+                {
+                  "id": 71403,
+                  "name": "LEMONG'O"
+                },
+                {
+                  "id": 71402,
+                  "name": "OLDONYOSAMBU"
+                }
+              ]
+            },
+            {
+              "id": 71469,
+              "name": "OLDONYOWAS",
+              "postcode": "23223",
+              "streets": [
+                {
+                  "id": 71472,
+                  "name": "ENGUTUKOIT"
+                },
+                {
+                  "id": 71471,
+                  "name": "LOSINONI"
+                },
+                {
+                  "id": 71473,
+                  "name": "LOSINONI JUU"
+                },
+                {
+                  "id": 71470,
+                  "name": "OLDONYOWAS"
+                }
+              ]
+            },
+            {
+              "id": 71438,
+              "name": "OLJORO",
+              "postcode": "23215",
+              "streets": [
+                {
+                  "id": 71441,
+                  "name": "MBUYUNI"
+                },
+                {
+                  "id": 71439,
+                  "name": "MIRONGOINE"
+                },
+                {
+                  "id": 71440,
+                  "name": "OLJORO"
+                }
+              ]
+            },
+            {
+              "id": 71437,
+              "name": "OLMOTONYI",
+              "postcode": "23214",
+              "streets": [
+                {
+                  "id": 110781,
+                  "name": "EMAOI"
+                },
+                {
+                  "id": 110820,
+                  "name": "FOREST"
+                },
+                {
+                  "id": 110783,
+                  "name": "NGARAMTONI"
+                },
+                {
+                  "id": 110782,
+                  "name": "OLMOTONYI"
+                }
+              ]
+            },
+            {
+              "id": 71424,
+              "name": "OLOIRIEN",
+              "postcode": "23210",
+              "streets": [
+                {
+                  "id": 110678,
+                  "name": "MRINGA"
+                },
+                {
+                  "id": 110677,
+                  "name": "OLORIEN"
+                },
+                {
+                  "id": 110676,
+                  "name": "OLOSIVA"
+                }
+              ]
+            },
+            {
+              "id": 71442,
+              "name": "OLTUROTO",
+              "postcode": "23216",
+              "streets": [
+                {
+                  "id": 71445,
+                  "name": "ILKIREVI"
+                },
+                {
+                  "id": 71443,
+                  "name": "KIVULULU"
+                },
+                {
+                  "id": 71444,
+                  "name": "OLDONYOSAPUK"
+                },
+                {
+                  "id": 71446,
+                  "name": "OSUNYAI"
+                }
+              ]
+            },
+            {
+              "id": 71391,
+              "name": "OLTURUMET",
+              "postcode": "23201",
+              "streets": [
+                {
+                  "id": 110661,
+                  "name": "EKENYWA"
+                },
+                {
+                  "id": 110660,
+                  "name": "ILKIUSHIN"
+                },
+                {
+                  "id": 110659,
+                  "name": "SEURI"
+                }
+              ]
+            },
+            {
+              "id": 71429,
+              "name": "SAMBASHA",
+              "postcode": "23212",
+              "streets": [
+                {
+                  "id": 71430,
+                  "name": "SAMBASHA"
+                },
+                {
+                  "id": 71431,
+                  "name": "SHIBORO"
+                },
+                {
+                  "id": 71432,
+                  "name": "TIMBOLO"
+                }
+              ]
+            },
+            {
+              "id": 71419,
+              "name": "SOKON II",
+              "postcode": "23208",
+              "streets": [
+                {
+                  "id": 71422,
+                  "name": "NG'IRES"
+                },
+                {
+                  "id": 71421,
+                  "name": "OLDADAI"
+                },
+                {
+                  "id": 71420,
+                  "name": "SOKON II"
+                }
+              ]
+            },
+            {
+              "id": 71483,
+              "name": "TARAKWA",
+              "postcode": "23226",
+              "streets": [
+                {
+                  "id": 110773,
+                  "name": "SAITABAU"
+                },
+                {
+                  "id": 110774,
+                  "name": "TARAKWA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 71486,
+          "name": "MERU DISTRICT COUNCIL",
+          "wards": [
+            {
+              "id": 71505,
+              "name": "AKHERI",
+              "postcode": "23306",
+              "streets": [
+                {
+                  "id": 71508,
+                  "name": "AKERI"
+                },
+                {
+                  "id": 71507,
+                  "name": "NGURUMA"
+                },
+                {
+                  "id": 71506,
+                  "name": "PATANDI"
+                }
+              ]
+            },
+            {
+              "id": 71597,
+              "name": "AMBURENI",
+              "postcode": "23325",
+              "streets": [
+                {
+                  "id": 71598,
+                  "name": "AMBURENI"
+                },
+                {
+                  "id": 71599,
+                  "name": "SHANGARAI"
+                }
+              ]
+            },
+            {
+              "id": 71592,
+              "name": "IMBASENI",
+              "postcode": "23324",
+              "streets": [
+                {
+                  "id": 71596,
+                  "name": "IMBASENI"
+                },
+                {
+                  "id": 71594,
+                  "name": "KIWAWA"
+                },
+                {
+                  "id": 71593,
+                  "name": "NGONGONGARE"
+                }
+              ]
+            },
+            {
+              "id": 71545,
+              "name": "KIKATITI",
+              "postcode": "23315",
+              "streets": [
+                {
+                  "id": 71546,
+                  "name": "KIKATITI"
+                },
+                {
+                  "id": 71547,
+                  "name": "NASHOLI"
+                },
+                {
+                  "id": 71549,
+                  "name": "NGYEKU"
+                },
+                {
+                  "id": 71548,
+                  "name": "SAKILA CHINI"
+                },
+                {
+                  "id": 71550,
+                  "name": "SAKILA JUU"
+                }
+              ]
+            },
+            {
+              "id": 71527,
+              "name": "KIKWE",
+              "postcode": "23311",
+              "streets": [
+                {
+                  "id": 71531,
+                  "name": "KARANGAI"
+                },
+                {
+                  "id": 71528,
+                  "name": "KIKWE"
+                },
+                {
+                  "id": 71530,
+                  "name": "MAWENI"
+                },
+                {
+                  "id": 71529,
+                  "name": "NAMBALA"
+                }
+              ]
+            },
+            {
+              "id": 71551,
+              "name": "KING'ORI",
+              "postcode": "23316",
+              "streets": [
+                {
+                  "id": 71554,
+                  "name": "KING'ORI"
+                },
+                {
+                  "id": 71552,
+                  "name": "MAREU"
+                },
+                {
+                  "id": 71557,
+                  "name": "MBORENY"
+                },
+                {
+                  "id": 71558,
+                  "name": "MUUNGANO"
+                },
+                {
+                  "id": 71556,
+                  "name": "NKOANOEL"
+                },
+                {
+                  "id": 71553,
+                  "name": "NKOANSIYO"
+                },
+                {
+                  "id": 71555,
+                  "name": "NSENGONY"
+                },
+                {
+                  "id": 71559,
+                  "name": "OLDONYANGIRO"
+                }
+              ]
+            },
+            {
+              "id": 71560,
+              "name": "LEGURUKI",
+              "postcode": "23317",
+              "streets": [
+                {
+                  "id": 71564,
+                  "name": "KANDASHE"
+                },
+                {
+                  "id": 71561,
+                  "name": "LEGURUKI"
+                },
+                {
+                  "id": 71563,
+                  "name": "MIRIRINY"
+                },
+                {
+                  "id": 71562,
+                  "name": "NKOASENGA"
+                }
+              ]
+            },
+            {
+              "id": 71570,
+              "name": "MAJENGO",
+              "postcode": "23319",
+              "streets": [
+                {
+                  "id": 71573,
+                  "name": "ENGATANI"
+                },
+                {
+                  "id": 71571,
+                  "name": "KALOLENI"
+                },
+                {
+                  "id": 71572,
+                  "name": "MAJENGO KATI"
+                }
+              ]
+            },
+            {
+              "id": 71488,
+              "name": "MAJI YA CHAI",
+              "postcode": "23302",
+              "streets": [
+                {
+                  "id": 71490,
+                  "name": "KITEFU"
+                },
+                {
+                  "id": 71492,
+                  "name": "LERAI"
+                },
+                {
+                  "id": 71491,
+                  "name": "MAJI YA CHAI"
+                },
+                {
+                  "id": 71489,
+                  "name": "NGURDOTO"
+                }
+              ]
+            },
+            {
+              "id": 71536,
+              "name": "MAKIBA",
+              "postcode": "23313",
+              "streets": [
+                {
+                  "id": 71538,
+                  "name": "MAKIBA"
+                },
+                {
+                  "id": 71539,
+                  "name": "PATANUMBE"
+                },
+                {
+                  "id": 71537,
+                  "name": "VALESKA"
+                }
+              ]
+            },
+            {
+              "id": 71574,
+              "name": "MALULA",
+              "postcode": "23320",
+              "streets": [
+                {
+                  "id": 71575,
+                  "name": "KOLILA"
+                },
+                {
+                  "id": 71578,
+                  "name": "MALULA"
+                },
+                {
+                  "id": 71576,
+                  "name": "NGEJUSOSIA"
+                },
+                {
+                  "id": 71577,
+                  "name": "NRUMANGENY"
+                }
+              ]
+            },
+            {
+              "id": 71540,
+              "name": "MARORONI",
+              "postcode": "23314",
+              "streets": [
+                {
+                  "id": 71543,
+                  "name": "KWAUGORO"
+                },
+                {
+                  "id": 71541,
+                  "name": "MARORONI"
+                },
+                {
+                  "id": 71544,
+                  "name": "MIGANDINI"
+                },
+                {
+                  "id": 71542,
+                  "name": "SAMARIA"
+                }
+              ]
+            },
+            {
+              "id": 71587,
+              "name": "MARUVANGO",
+              "postcode": "23323",
+              "streets": [
+                {
+                  "id": 71588,
+                  "name": "MARUVANGO"
+                },
+                {
+                  "id": 71590,
+                  "name": "MBAASENY"
+                },
+                {
+                  "id": 71591,
+                  "name": "MOUWARA"
+                },
+                {
+                  "id": 71589,
+                  "name": "SHISHTONY"
+                }
+              ]
+            },
+            {
+              "id": 71532,
+              "name": "MBUGUNI",
+              "postcode": "23312",
+              "streets": [
+                {
+                  "id": 71535,
+                  "name": "KIKULETWA"
+                },
+                {
+                  "id": 71533,
+                  "name": "MBUGUNI"
+                },
+                {
+                  "id": 71534,
+                  "name": "MIKUNGANI"
+                }
+              ]
+            },
+            {
+              "id": 71583,
+              "name": "NGABOBO",
+              "postcode": "23322",
+              "streets": [
+                {
+                  "id": 71584,
+                  "name": "NGABOBO"
+                },
+                {
+                  "id": 71585,
+                  "name": "OLTEPES"
+                },
+                {
+                  "id": 71586,
+                  "name": "TANK"
+                }
+              ]
+            },
+            {
+              "id": 71524,
+              "name": "NGARENANYUKI",
+              "postcode": "23310",
+              "streets": [
+                {
+                  "id": 71526,
+                  "name": "ILKIRUMUNI"
+                },
+                {
+                  "id": 71525,
+                  "name": "OLKUNG'WADO"
+                }
+              ]
+            },
+            {
+              "id": 71600,
+              "name": "NKOANEKOLI",
+              "postcode": "23326",
+              "streets": [
+                {
+                  "id": 71601,
+                  "name": "NKOANEKOLI"
+                },
+                {
+                  "id": 71602,
+                  "name": "NKURE"
+                },
+                {
+                  "id": 71603,
+                  "name": "SANGANANU"
+                }
+              ]
+            },
+            {
+              "id": 71513,
+              "name": "NKOANRUA",
+              "postcode": "23308",
+              "streets": [
+                {
+                  "id": 71516,
+                  "name": "KIPANDE NKOAVELE"
+                },
+                {
+                  "id": 71515,
+                  "name": "LOITA NKOAMALA"
+                },
+                {
+                  "id": 71514,
+                  "name": "NKOANRUA"
+                }
+              ]
+            },
+            {
+              "id": 71493,
+              "name": "NKOARANGA",
+              "postcode": "23303",
+              "streets": [
+                {
+                  "id": 71496,
+                  "name": "NGYANI"
+                },
+                {
+                  "id": 71495,
+                  "name": "NKOARANGA"
+                },
+                {
+                  "id": 71494,
+                  "name": "NSHUPU"
+                }
+              ]
+            },
+            {
+              "id": 71509,
+              "name": "NKOARISAMBU",
+              "postcode": "23307",
+              "streets": [
+                {
+                  "id": 71511,
+                  "name": "KIMUNDO"
+                },
+                {
+                  "id": 71510,
+                  "name": "MFULONY"
+                },
+                {
+                  "id": 71512,
+                  "name": "NKOARISAMBU"
+                }
+              ]
+            },
+            {
+              "id": 71497,
+              "name": "POLI",
+              "postcode": "23304",
+              "streets": [
+                {
+                  "id": 71498,
+                  "name": "NDATU"
+                },
+                {
+                  "id": 71499,
+                  "name": "NJORO"
+                },
+                {
+                  "id": 71500,
+                  "name": "POLI"
+                }
+              ]
+            },
+            {
+              "id": 71501,
+              "name": "SEELA SING'ISI",
+              "postcode": "23305",
+              "streets": [
+                {
+                  "id": 71503,
+                  "name": "MALALA"
+                },
+                {
+                  "id": 71504,
+                  "name": "SEELA"
+                },
+                {
+                  "id": 71502,
+                  "name": "SING'ISI"
+                }
+              ]
+            },
+            {
+              "id": 71565,
+              "name": "SHAMBARAI BURKA",
+              "postcode": "23318",
+              "streets": [
+                {
+                  "id": 71569,
+                  "name": "KAMBI YA TANGA JUU"
+                },
+                {
+                  "id": 71567,
+                  "name": "KERIKENYI"
+                },
+                {
+                  "id": 71568,
+                  "name": "MSITU WA MBOGO"
+                },
+                {
+                  "id": 71566,
+                  "name": "SHAMBARAI BURKA"
+                }
+              ]
+            },
+            {
+              "id": 71517,
+              "name": "SONGORO",
+              "postcode": "23309",
+              "streets": [
+                {
+                  "id": 71523,
+                  "name": "KILINGA"
+                },
+                {
+                  "id": 71522,
+                  "name": "MULALA"
+                },
+                {
+                  "id": 71518,
+                  "name": "SONGORO"
+                },
+                {
+                  "id": 71519,
+                  "name": "SURA"
+                },
+                {
+                  "id": 71521,
+                  "name": "URISHO"
+                },
+                {
+                  "id": 71520,
+                  "name": "USHILI"
+                }
+              ]
+            },
+            {
+              "id": 71487,
+              "name": "USARIVER",
+              "postcode": "23301",
+              "streets": [
+                {
+                  "id": 110518,
+                  "name": "KISAMBARE"
+                },
+                {
+                  "id": 110520,
+                  "name": "MAGADINI"
+                },
+                {
+                  "id": 110519,
+                  "name": "MAGADIRISHO"
+                },
+                {
+                  "id": 110521,
+                  "name": "MANYATA KATI"
+                },
+                {
+                  "id": 110517,
+                  "name": "MJI MWEMA"
+                },
+                {
+                  "id": 110541,
+                  "name": "MLIMA SIONI"
+                },
+                {
+                  "id": 110522,
+                  "name": "NGANANA"
+                },
+                {
+                  "id": 110516,
+                  "name": "NGARASERO"
+                },
+                {
+                  "id": 91389,
+                  "name": "USA RIVER"
+                }
+              ]
+            },
+            {
+              "id": 71579,
+              "name": "UWIRO",
+              "postcode": "23321",
+              "streets": [
+                {
+                  "id": 71582,
+                  "name": "KISIMIRI CHINI"
+                },
+                {
+                  "id": 71581,
+                  "name": "KISIMIRI JUU"
+                },
+                {
+                  "id": 71580,
+                  "name": "UWIRO"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 71007,
+      "name": "ARUSHA",
+      "councils": [
+        {
+          "id": 71210,
+          "name": "ARUSHA CITY COUNCIL",
+          "wards": [
+            {
+              "id": 71280,
+              "name": "BARAA",
+              "postcode": "23112",
+              "streets": [
+                {
+                  "id": 89930,
+                  "name": "ELKIROWA"
+                },
+                {
+                  "id": 71282,
+                  "name": "KAMBI YA CHUPA"
+                },
+                {
+                  "id": 71283,
+                  "name": "KIROSHI"
+                },
+                {
+                  "id": 71284,
+                  "name": "KWA MREFU"
+                },
+                {
+                  "id": 71285,
+                  "name": "MFEREJINI"
+                },
+                {
+                  "id": 71286,
+                  "name": "OFISINI"
+                },
+                {
+                  "id": 71287,
+                  "name": "SIARAA"
+                },
+                {
+                  "id": 71288,
+                  "name": "SORENYI"
+                }
+              ]
+            },
+            {
+              "id": 71255,
+              "name": "DARAJA II",
+              "postcode": "23108",
+              "streets": [
+                {
+                  "id": 89919,
+                  "name": "ALI NYANYA"
+                },
+                {
+                  "id": 71257,
+                  "name": "DARAJANI"
+                },
+                {
+                  "id": 71258,
+                  "name": "JAMHURI"
+                },
+                {
+                  "id": 71259,
+                  "name": "KATI"
+                },
+                {
+                  "id": 71260,
+                  "name": "NDARVOI"
+                },
+                {
+                  "id": 71261,
+                  "name": "SANARE"
+                }
+              ]
+            },
+            {
+              "id": 71234,
+              "name": "ELERAI",
+              "postcode": "23106",
+              "streets": [
+                {
+                  "id": 71235,
+                  "name": "AZIMIO"
+                },
+                {
+                  "id": 71236,
+                  "name": "BURKA"
+                },
+                {
+                  "id": 71237,
+                  "name": "KWARE"
+                },
+                {
+                  "id": 89923,
+                  "name": "MAJENGO \"A\""
+                },
+                {
+                  "id": 89922,
+                  "name": "MAJENGO \"B\""
+                },
+                {
+                  "id": 71240,
+                  "name": "MAMA MUSA"
+                },
+                {
+                  "id": 71241,
+                  "name": "NGURUMO"
+                },
+                {
+                  "id": 71242,
+                  "name": "REMTULA"
+                },
+                {
+                  "id": 71243,
+                  "name": "SACON"
+                },
+                {
+                  "id": 71244,
+                  "name": "SAMANGA"
+                },
+                {
+                  "id": 71245,
+                  "name": "SHAMSI"
+                },
+                {
+                  "id": 71246,
+                  "name": "SHUMA"
+                },
+                {
+                  "id": 71247,
+                  "name": "URUNDINI"
+                }
+              ]
+            },
+            {
+              "id": 71297,
+              "name": "ENGUTOTO",
+              "postcode": "23114",
+              "streets": [
+                {
+                  "id": 71299,
+                  "name": "BLOCK C 2"
+                },
+                {
+                  "id": 71298,
+                  "name": "BLOCK C1"
+                },
+                {
+                  "id": 71300,
+                  "name": "BLOCK D"
+                },
+                {
+                  "id": 71301,
+                  "name": "BLOCK F"
+                },
+                {
+                  "id": 71302,
+                  "name": "BLOCK H"
+                },
+                {
+                  "id": 71303,
+                  "name": "BLOCK J"
+                }
+              ]
+            },
+            {
+              "id": 71221,
+              "name": "KALOLENI",
+              "postcode": "23103",
+              "streets": [
+                {
+                  "id": 71222,
+                  "name": "KALOLENI MAGHARIBI"
+                },
+                {
+                  "id": 71223,
+                  "name": "KALOLENI MASHARIKI"
+                },
+                {
+                  "id": 71224,
+                  "name": "MITA 200"
+                }
+              ]
+            },
+            {
+              "id": 71218,
+              "name": "KATI",
+              "postcode": "23102",
+              "streets": [
+                {
+                  "id": 71219,
+                  "name": "BONDENI"
+                },
+                {
+                  "id": 71220,
+                  "name": "PANGANI"
+                }
+              ]
+            },
+            {
+              "id": 71268,
+              "name": "KIMANDOLU",
+              "postcode": "23110",
+              "streets": [
+                {
+                  "id": 71269,
+                  "name": "KIJENGE KASKAZINI"
+                },
+                {
+                  "id": 71270,
+                  "name": "KIJENGE KUSINI"
+                },
+                {
+                  "id": 89934,
+                  "name": "KITIANGARE"
+                },
+                {
+                  "id": 71272,
+                  "name": "TINDIGANI"
+                }
+              ]
+            },
+            {
+              "id": 71289,
+              "name": "LEMARA",
+              "postcode": "23113",
+              "streets": [
+                {
+                  "id": 71290,
+                  "name": "ILKIROWA"
+                },
+                {
+                  "id": 71291,
+                  "name": "KIKWAKWARU âAâ"
+                },
+                {
+                  "id": 89956,
+                  "name": "KIKWAKWARUâBâ"
+                },
+                {
+                  "id": 71293,
+                  "name": "KORONGONI"
+                },
+                {
+                  "id": 71294,
+                  "name": "LEMARA KATI"
+                },
+                {
+                  "id": 71295,
+                  "name": "OLEPOLOS"
+                },
+                {
+                  "id": 71296,
+                  "name": "SUNFLAG"
+                }
+              ]
+            },
+            {
+              "id": 71225,
+              "name": "LEVOLOSI",
+              "postcode": "23104",
+              "streets": [
+                {
+                  "id": 71227,
+                  "name": "LEVOLOSI"
+                },
+                {
+                  "id": 71226,
+                  "name": "MAJENGO"
+                }
+              ]
+            },
+            {
+              "id": 71341,
+              "name": "MOIVARO",
+              "postcode": "23120",
+              "streets": [
+                {
+                  "id": 71343,
+                  "name": "MOIVARO KATI"
+                },
+                {
+                  "id": 71344,
+                  "name": "MOSHONO KASKAZINI"
+                },
+                {
+                  "id": 71345,
+                  "name": "NGURUMAUS"
+                },
+                {
+                  "id": 71342,
+                  "name": "OLDONYOMASI"
+                },
+                {
+                  "id": 71346,
+                  "name": "SEKEI"
+                },
+                {
+                  "id": 71347,
+                  "name": "SHANGARAO"
+                }
+              ]
+            },
+            {
+              "id": 71325,
+              "name": "MOSHONO",
+              "postcode": "23118",
+              "streets": [
+                {
+                  "id": 71326,
+                  "name": "ENGOSOWASH"
+                },
+                {
+                  "id": 71327,
+                  "name": "KALIMAJI"
+                },
+                {
+                  "id": 71328,
+                  "name": "LAIZER"
+                },
+                {
+                  "id": 71329,
+                  "name": "LOSIRWAY"
+                },
+                {
+                  "id": 71330,
+                  "name": "MOSHONO KATI"
+                },
+                {
+                  "id": 71331,
+                  "name": "MTONI"
+                },
+                {
+                  "id": 71332,
+                  "name": "NANJA"
+                },
+                {
+                  "id": 71333,
+                  "name": "OLKEREYAN KATI"
+                },
+                {
+                  "id": 89931,
+                  "name": "T.PACKERS"
+                }
+              ]
+            },
+            {
+              "id": 71356,
+              "name": "MURIET",
+              "postcode": "23122",
+              "streets": [
+                {
+                  "id": 71357,
+                  "name": "BONDENI"
+                },
+                {
+                  "id": 71358,
+                  "name": "ELWANYI"
+                },
+                {
+                  "id": 71359,
+                  "name": "EMBARARWAI"
+                },
+                {
+                  "id": 89954,
+                  "name": "FFU"
+                },
+                {
+                  "id": 71361,
+                  "name": "KATI"
+                },
+                {
+                  "id": 71362,
+                  "name": "MASHARIKI"
+                },
+                {
+                  "id": 71363,
+                  "name": "MLIMANI"
+                },
+                {
+                  "id": 71364,
+                  "name": "MSASANI"
+                },
+                {
+                  "id": 71365,
+                  "name": "MURIET"
+                },
+                {
+                  "id": 71367,
+                  "name": "NADOSOITO KATI"
+                },
+                {
+                  "id": 71366,
+                  "name": "NADOSOITO KUSINI"
+                },
+                {
+                  "id": 71368,
+                  "name": "NGORIENITO"
+                },
+                {
+                  "id": 71369,
+                  "name": "OLDONYOKUMUR"
+                }
+              ]
+            },
+            {
+              "id": 71228,
+              "name": "NGARENARO",
+              "postcode": "23105",
+              "streets": [
+                {
+                  "id": 71229,
+                  "name": "DARAJANI"
+                },
+                {
+                  "id": 71230,
+                  "name": "KAMBI YA FISI"
+                },
+                {
+                  "id": 71231,
+                  "name": "MITA 200"
+                },
+                {
+                  "id": 71232,
+                  "name": "NHC"
+                },
+                {
+                  "id": 71233,
+                  "name": "TCA"
+                }
+              ]
+            },
+            {
+              "id": 71335,
+              "name": "OLASITI",
+              "postcode": "23119",
+              "streets": [
+                {
+                  "id": 71336,
+                  "name": "BURKA"
+                },
+                {
+                  "id": 71337,
+                  "name": "KIMINDOROSI"
+                },
+                {
+                  "id": 71338,
+                  "name": "OLASITI CENTRE"
+                },
+                {
+                  "id": 89958,
+                  "name": "OLKEREYAN"
+                },
+                {
+                  "id": 71340,
+                  "name": "OLORESHO"
+                }
+              ]
+            },
+            {
+              "id": 71383,
+              "name": "OLMOTI",
+              "postcode": "23125",
+              "streets": [
+                {
+                  "id": 71384,
+                  "name": "MLIMANI"
+                },
+                {
+                  "id": 71385,
+                  "name": "MURONGOINE"
+                },
+                {
+                  "id": 71386,
+                  "name": "NAFCO"
+                },
+                {
+                  "id": 71387,
+                  "name": "NGARAMTONI YA CHINI"
+                },
+                {
+                  "id": 71388,
+                  "name": "OLMOTI"
+                },
+                {
+                  "id": 71389,
+                  "name": "OLTEVES"
+                }
+              ]
+            },
+            {
+              "id": 71273,
+              "name": "OLOIRIEN",
+              "postcode": "23111",
+              "streets": [
+                {
+                  "id": 71274,
+                  "name": "MBESHERE"
+                },
+                {
+                  "id": 71275,
+                  "name": "MEIROTI"
+                },
+                {
+                  "id": 71276,
+                  "name": "MOIVOI"
+                },
+                {
+                  "id": 71277,
+                  "name": "MWANAMA"
+                },
+                {
+                  "id": 89951,
+                  "name": "R.C"
+                },
+                {
+                  "id": 71279,
+                  "name": "SUYE"
+                }
+              ]
+            },
+            {
+              "id": 71370,
+              "name": "OSUNYAI JR",
+              "postcode": "23123",
+              "streets": [
+                {
+                  "id": 71371,
+                  "name": "JR"
+                },
+                {
+                  "id": 71372,
+                  "name": "KIRIKA 'B'"
+                },
+                {
+                  "id": 71373,
+                  "name": "NGUSERO"
+                },
+                {
+                  "id": 71374,
+                  "name": "OSUNYAI"
+                }
+              ]
+            },
+            {
+              "id": 71375,
+              "name": "SAKINA",
+              "postcode": "23124",
+              "streets": [
+                {
+                  "id": 71376,
+                  "name": "GIRIKI"
+                },
+                {
+                  "id": 71377,
+                  "name": "MAIRIVA"
+                },
+                {
+                  "id": 71378,
+                  "name": "MELAMARI"
+                },
+                {
+                  "id": 71379,
+                  "name": "NAVARANA"
+                },
+                {
+                  "id": 89935,
+                  "name": "OLMATEJO âBâ"
+                },
+                {
+                  "id": 89936,
+                  "name": "OLMATEJOO âAâ"
+                },
+                {
+                  "id": 71382,
+                  "name": "SAKINA"
+                }
+              ]
+            },
+            {
+              "id": 71211,
+              "name": "SEKEI",
+              "postcode": "23101",
+              "streets": [
+                {
+                  "id": 71010,
+                  "name": "AICC"
+                },
+                {
+                  "id": 71014,
+                  "name": "GOLIONDOI"
+                },
+                {
+                  "id": 71215,
+                  "name": "MAHAKAMANI"
+                },
+                {
+                  "id": 71216,
+                  "name": "NAURA"
+                },
+                {
+                  "id": 71213,
+                  "name": "NAUREI"
+                },
+                {
+                  "id": 71212,
+                  "name": "SANAWARI"
+                }
+              ]
+            },
+            {
+              "id": 71348,
+              "name": "SINONI",
+              "postcode": "23121",
+              "streets": [
+                {
+                  "id": 71349,
+                  "name": "ENGOSENGIU"
+                },
+                {
+                  "id": 71350,
+                  "name": "MAKAO MAPYA"
+                },
+                {
+                  "id": 71351,
+                  "name": "MIGUNGANI"
+                },
+                {
+                  "id": 71352,
+                  "name": "MLIMANI"
+                },
+                {
+                  "id": 89917,
+                  "name": "OLEVOLOS"
+                },
+                {
+                  "id": 89918,
+                  "name": "OLMURKEA"
+                },
+                {
+                  "id": 89916,
+                  "name": "OLNJAVUTIAN"
+                }
+              ]
+            },
+            {
+              "id": 71304,
+              "name": "SOKON I",
+              "postcode": "23115",
+              "streets": [
+                {
+                  "id": 71305,
+                  "name": "KANISANI"
+                },
+                {
+                  "id": 71306,
+                  "name": "LOLOVONO"
+                },
+                {
+                  "id": 89953,
+                  "name": "LONGDONG"
+                },
+                {
+                  "id": 71308,
+                  "name": "MADUKANI"
+                },
+                {
+                  "id": 71309,
+                  "name": "MURIET"
+                },
+                {
+                  "id": 71310,
+                  "name": "SAINEVUNO"
+                }
+              ]
+            },
+            {
+              "id": 71311,
+              "name": "SOMBETINI",
+              "postcode": "23116",
+              "streets": [
+                {
+                  "id": 71312,
+                  "name": "BANDA MBILI"
+                },
+                {
+                  "id": 71313,
+                  "name": "KIRIKA âAâ"
+                },
+                {
+                  "id": 71314,
+                  "name": "OLAMURIAKI"
+                },
+                {
+                  "id": 71315,
+                  "name": "SIMANJIRO"
+                }
+              ]
+            },
+            {
+              "id": 71316,
+              "name": "TERRAT",
+              "postcode": "23117",
+              "streets": [
+                {
+                  "id": 71317,
+                  "name": "BONDENI KATI"
+                },
+                {
+                  "id": 71318,
+                  "name": "ENGAVUNET"
+                },
+                {
+                  "id": 71319,
+                  "name": "ERANGAU"
+                },
+                {
+                  "id": 89948,
+                  "name": "ILAITAIYOK"
+                },
+                {
+                  "id": 89949,
+                  "name": "IMITONG'WA"
+                },
+                {
+                  "id": 89945,
+                  "name": "MASIKIRIA"
+                },
+                {
+                  "id": 71323,
+                  "name": "OLEPOLOSI"
+                },
+                {
+                  "id": 89947,
+                  "name": "OLKUNGâU"
+                }
+              ]
+            },
+            {
+              "id": 71262,
+              "name": "THEMI",
+              "postcode": "23109",
+              "streets": [
+                {
+                  "id": 71263,
+                  "name": "AICC FLATS"
+                },
+                {
+                  "id": 71264,
+                  "name": "CORRIDOR AREA"
+                },
+                {
+                  "id": 71265,
+                  "name": "KAMBARAGE"
+                },
+                {
+                  "id": 71266,
+                  "name": "OLD POLICE"
+                },
+                {
+                  "id": 71267,
+                  "name": "THEMI MASHARIKI"
+                }
+              ]
+            },
+            {
+              "id": 71248,
+              "name": "UNGA LTD",
+              "postcode": "23107",
+              "streets": [
+                {
+                  "id": 71249,
+                  "name": "DARAJANI"
+                },
+                {
+                  "id": 71250,
+                  "name": "ESSO"
+                },
+                {
+                  "id": 71251,
+                  "name": "MAKABURI YA BANIANI"
+                },
+                {
+                  "id": 71252,
+                  "name": "OYSTERBAY"
+                },
+                {
+                  "id": 71253,
+                  "name": "TINDIGA"
+                },
+                {
+                  "id": 71254,
+                  "name": "VIWANDANI"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 71758,
+      "name": "KARATU",
+      "councils": [
+        {
+          "id": 71759,
+          "name": "KARATU DISTRICT COUNCIL",
+          "wards": [
+            {
+              "id": 71821,
+              "name": "BARAY",
+              "postcode": "23613",
+              "streets": [
+                {
+                  "id": 71825,
+                  "name": "DUMBECHAND"
+                },
+                {
+                  "id": 71827,
+                  "name": "ENDESH"
+                },
+                {
+                  "id": 71824,
+                  "name": "JOBAJ"
+                },
+                {
+                  "id": 71826,
+                  "name": "MATALA"
+                },
+                {
+                  "id": 71823,
+                  "name": "MBUGA NYEKUNDU"
+                },
+                {
+                  "id": 71822,
+                  "name": "QANGDEND"
+                }
+              ]
+            },
+            {
+              "id": 71786,
+              "name": "BUGER",
+              "postcode": "23606",
+              "streets": [
+                {
+                  "id": 71787,
+                  "name": "AYALALIYO"
+                },
+                {
+                  "id": 71788,
+                  "name": "BUGER"
+                },
+                {
+                  "id": 71789,
+                  "name": "ENDONYAWET"
+                }
+              ]
+            },
+            {
+              "id": 71812,
+              "name": "DAA",
+              "postcode": "23611",
+              "streets": [
+                {
+                  "id": 71813,
+                  "name": "CHANGARAWE"
+                },
+                {
+                  "id": 71814,
+                  "name": "ENDASHANGWET"
+                },
+                {
+                  "id": 71816,
+                  "name": "MAKHOROMBA"
+                },
+                {
+                  "id": 108752,
+                  "name": "MANG'OLA JUU"
+                }
+              ]
+            },
+            {
+              "id": 71796,
+              "name": "ENDABASH",
+              "postcode": "23608",
+              "streets": [
+                {
+                  "id": 71797,
+                  "name": "ENDABASH"
+                },
+                {
+                  "id": 71798,
+                  "name": "ENDAGEM"
+                },
+                {
+                  "id": 71800,
+                  "name": "KINIHHE"
+                },
+                {
+                  "id": 71799,
+                  "name": "QARU"
+                }
+              ]
+            },
+            {
+              "id": 71828,
+              "name": "ENDAMAGHANG",
+              "postcode": "23614",
+              "streets": [
+                {
+                  "id": 71830,
+                  "name": "ENDAMAGHANG"
+                },
+                {
+                  "id": 71829,
+                  "name": "MIKOCHENI"
+                }
+              ]
+            },
+            {
+              "id": 71776,
+              "name": "ENDAMARARIEK",
+              "postcode": "23605",
+              "streets": [
+                {
+                  "id": 71783,
+                  "name": "BASSODAWISH"
+                },
+                {
+                  "id": 71779,
+                  "name": "ENDALLAH"
+                },
+                {
+                  "id": 71777,
+                  "name": "ENDAMARARIEK"
+                },
+                {
+                  "id": 71781,
+                  "name": "GETAMOCK"
+                },
+                {
+                  "id": 71778,
+                  "name": "GIDBASSO"
+                },
+                {
+                  "id": 71785,
+                  "name": "KHUSUMAY"
+                },
+                {
+                  "id": 71782,
+                  "name": "MAHHAHHA"
+                },
+                {
+                  "id": 71780,
+                  "name": "MASABEDA"
+                },
+                {
+                  "id": 71784,
+                  "name": "SHANGIT"
+                }
+              ]
+            },
+            {
+              "id": 71761,
+              "name": "GANAKO",
+              "postcode": "23602",
+              "streets": [
+                {
+                  "id": 106988,
+                  "name": "AYALABE KASKAZINI"
+                },
+                {
+                  "id": 106987,
+                  "name": "AYALABE KUSINI"
+                },
+                {
+                  "id": 106989,
+                  "name": "AYALABE MAGHARIBI"
+                },
+                {
+                  "id": 107000,
+                  "name": "AYALABE MASHARIKI"
+                },
+                {
+                  "id": 106993,
+                  "name": "GANAKO"
+                },
+                {
+                  "id": 106998,
+                  "name": "HAYMU"
+                },
+                {
+                  "id": 106994,
+                  "name": "HUDUMA"
+                },
+                {
+                  "id": 106991,
+                  "name": "KAMBI YA NYOKA"
+                },
+                {
+                  "id": 106995,
+                  "name": "KILIMANI"
+                },
+                {
+                  "id": 106990,
+                  "name": "KILIMANI MASHAMBA"
+                },
+                {
+                  "id": 106997,
+                  "name": "KIWANDANI"
+                },
+                {
+                  "id": 106999,
+                  "name": "NGORONGORO"
+                },
+                {
+                  "id": 106992,
+                  "name": "SABATO"
+                },
+                {
+                  "id": 106996,
+                  "name": "TLOMA"
+                }
+              ]
+            },
+            {
+              "id": 71790,
+              "name": "KANSAY",
+              "postcode": "23607",
+              "streets": [
+                {
+                  "id": 71793,
+                  "name": "KAMBI YA FARU"
+                },
+                {
+                  "id": 71791,
+                  "name": "KANSAY"
+                },
+                {
+                  "id": 71794,
+                  "name": "LAJA"
+                },
+                {
+                  "id": 71792,
+                  "name": "NGâAIBARA"
+                },
+                {
+                  "id": 71795,
+                  "name": "UMBANGW'"
+                }
+              ]
+            },
+            {
+              "id": 71760,
+              "name": "KARATU",
+              "postcode": "23601",
+              "streets": [
+                {
+                  "id": 106856,
+                  "name": "BARAZANI"
+                },
+                {
+                  "id": 106791,
+                  "name": "BOMANI"
+                },
+                {
+                  "id": 106852,
+                  "name": "BWAWANI"
+                },
+                {
+                  "id": 106850,
+                  "name": "MALIASILI"
+                },
+                {
+                  "id": 106848,
+                  "name": "MANGAFI"
+                },
+                {
+                  "id": 106847,
+                  "name": "MANYARA"
+                },
+                {
+                  "id": 106853,
+                  "name": "MAZINGIRA BORA"
+                },
+                {
+                  "id": 106854,
+                  "name": "MJINI KATI"
+                },
+                {
+                  "id": 106855,
+                  "name": "NMC"
+                },
+                {
+                  "id": 106849,
+                  "name": "SLAHHAMO"
+                },
+                {
+                  "id": 106851,
+                  "name": "TFA"
+                }
+              ]
+            },
+            {
+              "id": 71817,
+              "name": "MANG'OLA",
+              "postcode": "23612",
+              "streets": [
+                {
+                  "id": 71819,
+                  "name": "LAGHANGARERI"
+                },
+                {
+                  "id": 71820,
+                  "name": "MALECKCHAND"
+                },
+                {
+                  "id": 108629,
+                  "name": "MANG'OLA BARAZANI"
+                }
+              ]
+            },
+            {
+              "id": 71770,
+              "name": "MBULUMBULU",
+              "postcode": "23604",
+              "streets": [
+                {
+                  "id": 71772,
+                  "name": "KAMBI YA SIMBA"
+                },
+                {
+                  "id": 71775,
+                  "name": "KITETE"
+                },
+                {
+                  "id": 71773,
+                  "name": "LOSITETE"
+                },
+                {
+                  "id": 71771,
+                  "name": "SLAHHAMO"
+                },
+                {
+                  "id": 71774,
+                  "name": "UPPER KITETE"
+                }
+              ]
+            },
+            {
+              "id": 71809,
+              "name": "OLDEANI",
+              "postcode": "23610",
+              "streets": [
+                {
+                  "id": 71811,
+                  "name": "KIWANJA"
+                },
+                {
+                  "id": 71810,
+                  "name": "OLDEANI"
+                }
+              ]
+            },
+            {
+              "id": 71801,
+              "name": "QURUS",
+              "postcode": "23609",
+              "streets": [
+                {
+                  "id": 71807,
+                  "name": "BASHAY"
+                },
+                {
+                  "id": 71808,
+                  "name": "DOFFA"
+                },
+                {
+                  "id": 71803,
+                  "name": "GENDAA"
+                },
+                {
+                  "id": 71804,
+                  "name": "GONGALI"
+                },
+                {
+                  "id": 107988,
+                  "name": "GYEKRUM LAMBO"
+                },
+                {
+                  "id": 107934,
+                  "name": "KINIHHE"
+                },
+                {
+                  "id": 71805,
+                  "name": "QORONGâAIDA"
+                },
+                {
+                  "id": 71806,
+                  "name": "QURUS"
+                }
+              ]
+            },
+            {
+              "id": 71762,
+              "name": "RHOTIA",
+              "postcode": "23603",
+              "streets": [
+                {
+                  "id": 71769,
+                  "name": "CHEMCHEM"
+                },
+                {
+                  "id": 71764,
+                  "name": "HUDUMA"
+                },
+                {
+                  "id": 71768,
+                  "name": "KAINAM RHOTIA"
+                },
+                {
+                  "id": 71763,
+                  "name": "KILIMAMOJA"
+                },
+                {
+                  "id": 71767,
+                  "name": "KILIMATEMBO"
+                },
+                {
+                  "id": 71766,
+                  "name": "MARERA"
+                },
+                {
+                  "id": 71765,
+                  "name": "RHOTIA KATI"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 71688,
+      "name": "LONGIDO",
+      "councils": [
+        {
+          "id": 71689,
+          "name": "LONGIDO DISTRICT COUNCIL",
+          "wards": [
+            {
+              "id": 71711,
+              "name": "ELANG'ATADAPASH",
+              "postcode": "23508",
+              "streets": [
+                {
+                  "id": 71712,
+                  "name": "ELANGÃTADAPASH"
+                },
+                {
+                  "id": 71713,
+                  "name": "OLCHORONYOKIE"
+                },
+                {
+                  "id": 71714,
+                  "name": "SOKON"
+                }
+              ]
+            },
+            {
+              "id": 71725,
+              "name": "ENGARENAIBOR",
+              "postcode": "23511",
+              "streets": [
+                {
+                  "id": 71728,
+                  "name": "KARAO"
+                },
+                {
+                  "id": 71730,
+                  "name": "KIMWATI"
+                },
+                {
+                  "id": 71727,
+                  "name": "MAIROWA"
+                },
+                {
+                  "id": 71726,
+                  "name": "NGOSWAK"
+                },
+                {
+                  "id": 71729,
+                  "name": "SINONIK"
+                }
+              ]
+            },
+            {
+              "id": 71708,
+              "name": "ENGIKARET",
+              "postcode": "23507",
+              "streets": [
+                {
+                  "id": 71709,
+                  "name": "ENGIKARET"
+                },
+                {
+                  "id": 71710,
+                  "name": "KISERIAN"
+                }
+              ]
+            },
+            {
+              "id": 71734,
+              "name": "GELAI LUMBWA",
+              "postcode": "23513",
+              "streets": [
+                {
+                  "id": 71736,
+                  "name": "ALAILILAI"
+                },
+                {
+                  "id": 71737,
+                  "name": "ILCHANGITSAPUKIN"
+                },
+                {
+                  "id": 71735,
+                  "name": "LUMBWA"
+                },
+                {
+                  "id": 71738,
+                  "name": "WOSIWOSI"
+                }
+              ]
+            },
+            {
+              "id": 71739,
+              "name": "GELAI MEIRUGOI",
+              "postcode": "23514",
+              "streets": [
+                {
+                  "id": 71741,
+                  "name": "LOONDOLWO/ESIRWA"
+                },
+                {
+                  "id": 71742,
+                  "name": "MAGADINI"
+                },
+                {
+                  "id": 71740,
+                  "name": "MEIRUGOI"
+                }
+              ]
+            },
+            {
+              "id": 71743,
+              "name": "ILORIENITO",
+              "postcode": "23515",
+              "streets": [
+                {
+                  "id": 71744,
+                  "name": "ILORIENITO"
+                },
+                {
+                  "id": 71746,
+                  "name": "LOSIRWA"
+                },
+                {
+                  "id": 71745,
+                  "name": "NADAARE"
+                }
+              ]
+            },
+            {
+              "id": 71704,
+              "name": "KAMWANGA",
+              "postcode": "23506",
+              "streets": [
+                {
+                  "id": 71707,
+                  "name": "IRKASWA"
+                },
+                {
+                  "id": 71705,
+                  "name": "KAMWANGA"
+                },
+                {
+                  "id": 71706,
+                  "name": "KITENDEN"
+                }
+              ]
+            },
+            {
+              "id": 71715,
+              "name": "KETUMBEINE",
+              "postcode": "23509",
+              "streets": [
+                {
+                  "id": 71718,
+                  "name": "ARMANIE"
+                },
+                {
+                  "id": 71717,
+                  "name": "ENGUSHAI"
+                },
+                {
+                  "id": 71719,
+                  "name": "LOPOLOSEK"
+                },
+                {
+                  "id": 71716,
+                  "name": "ORKEJULOONGISHU"
+                }
+              ]
+            },
+            {
+              "id": 71692,
+              "name": "KIMOKOUWA",
+              "postcode": "23502",
+              "streets": [
+                {
+                  "id": 71694,
+                  "name": "EWORENDEKE"
+                },
+                {
+                  "id": 71693,
+                  "name": "KIMOKOUWA"
+                }
+              ]
+            },
+            {
+              "id": 71690,
+              "name": "LONGIDO",
+              "postcode": "23501",
+              "streets": [
+                {
+                  "id": 71691,
+                  "name": "LONGIDO"
+                }
+              ]
+            },
+            {
+              "id": 71731,
+              "name": "MATALE A",
+              "postcode": "23512",
+              "streets": [
+                {
+                  "id": 71732,
+                  "name": "MATALE A"
+                },
+                {
+                  "id": 71733,
+                  "name": "MATALE B"
+                }
+              ]
+            },
+            {
+              "id": 71720,
+              "name": "MUNDARARA",
+              "postcode": "23510",
+              "streets": [
+                {
+                  "id": 71724,
+                  "name": "LESING'ITA"
+                },
+                {
+                  "id": 71721,
+                  "name": "MUNDARARA"
+                },
+                {
+                  "id": 71722,
+                  "name": "ORGIRA"
+                },
+                {
+                  "id": 71723,
+                  "name": "ORPURKEL"
+                }
+              ]
+            },
+            {
+              "id": 71695,
+              "name": "NAMANGA",
+              "postcode": "23503",
+              "streets": [
+                {
+                  "id": 111256,
+                  "name": "BUGURUNI"
+                },
+                {
+                  "id": 111257,
+                  "name": "KISONGO"
+                },
+                {
+                  "id": 111258,
+                  "name": "KISONGO B"
+                },
+                {
+                  "id": 111259,
+                  "name": "KISONGO C"
+                },
+                {
+                  "id": 111261,
+                  "name": "MAKAO MAPYA"
+                },
+                {
+                  "id": 111260,
+                  "name": "MLIMANI"
+                },
+                {
+                  "id": 111262,
+                  "name": "MTAA WA SABA"
+                },
+                {
+                  "id": 71696,
+                  "name": "NAMANGA"
+                }
+              ]
+            },
+            {
+              "id": 71751,
+              "name": "NOONDOTO",
+              "postcode": "23517",
+              "streets": [
+                {
+                  "id": 71753,
+                  "name": "ENGUSERO"
+                },
+                {
+                  "id": 71752,
+                  "name": "NOONDOTO"
+                }
+              ]
+            },
+            {
+              "id": 71700,
+              "name": "OLMOLOG",
+              "postcode": "23505",
+              "streets": [
+                {
+                  "id": 71701,
+                  "name": "ELERAI"
+                },
+                {
+                  "id": 71703,
+                  "name": "LERANGâWA"
+                },
+                {
+                  "id": 71702,
+                  "name": "OLMOLOG"
+                }
+              ]
+            },
+            {
+              "id": 71747,
+              "name": "ORBOMBA",
+              "postcode": "23516",
+              "streets": [
+                {
+                  "id": 71749,
+                  "name": "OLTEPESI"
+                },
+                {
+                  "id": 71748,
+                  "name": "ORBOMBA"
+                },
+                {
+                  "id": 71750,
+                  "name": "RANCHI"
+                }
+              ]
+            },
+            {
+              "id": 71754,
+              "name": "SINYA",
+              "postcode": "23518",
+              "streets": [
+                {
+                  "id": 71757,
+                  "name": "ENDONYEMALI"
+                },
+                {
+                  "id": 71755,
+                  "name": "ILDONYIO"
+                },
+                {
+                  "id": 71756,
+                  "name": "LEREMETA"
+                }
+              ]
+            },
+            {
+              "id": 71697,
+              "name": "TINGATINGA",
+              "postcode": "23504",
+              "streets": [
+                {
+                  "id": 71699,
+                  "name": "NGEREYANI"
+                },
+                {
+                  "id": 71698,
+                  "name": "TINGATINGA"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 71604,
+      "name": "MONDULI",
+      "councils": [
+        {
+          "id": 71605,
+          "name": "MONDULI DISTRICT COUNCIL",
+          "wards": [
+            {
+              "id": 71663,
+              "name": "ENGARUKA",
+              "postcode": "23415",
+              "streets": [
+                {
+                  "id": 71666,
+                  "name": "ENGARUKA CHINI"
+                },
+                {
+                  "id": 71664,
+                  "name": "ENGARUKA JUU"
+                },
+                {
+                  "id": 71665,
+                  "name": "OLDONYO LENGAI"
+                },
+                {
+                  "id": 107521,
+                  "name": "RERENDENI"
+                }
+              ]
+            },
+            {
+              "id": 71607,
+              "name": "ENGUTOTO",
+              "postcode": "23402",
+              "streets": [
+                {
+                  "id": 71608,
+                  "name": "MLIMANI"
+                },
+                {
+                  "id": 71610,
+                  "name": "OLARASH"
+                },
+                {
+                  "id": 71609,
+                  "name": "SINONI/NGARASH"
+                }
+              ]
+            },
+            {
+              "id": 71637,
+              "name": "ESILALEI",
+              "postcode": "23409",
+              "streets": [
+                {
+                  "id": 71639,
+                  "name": "BARAKA"
+                },
+                {
+                  "id": 71640,
+                  "name": "ESILALEI"
+                },
+                {
+                  "id": 71638,
+                  "name": "LOSIRWA"
+                },
+                {
+                  "id": 71642,
+                  "name": "MUNGERE"
+                },
+                {
+                  "id": 71641,
+                  "name": "OLTUKAI"
+                }
+              ]
+            },
+            {
+              "id": 71673,
+              "name": "LASHAINE",
+              "postcode": "23417",
+              "streets": [
+                {
+                  "id": 71674,
+                  "name": "LASHAINE"
+                },
+                {
+                  "id": 71675,
+                  "name": "ORKEESWA"
+                }
+              ]
+            },
+            {
+              "id": 71680,
+              "name": "LEMOOTI",
+              "postcode": "23419",
+              "streets": [
+                {
+                  "id": 71681,
+                  "name": "LEMOOTI"
+                },
+                {
+                  "id": 71682,
+                  "name": "LENGOOLWA"
+                },
+                {
+                  "id": 71683,
+                  "name": "OLDONYO"
+                }
+              ]
+            },
+            {
+              "id": 71655,
+              "name": "LEPURKO",
+              "postcode": "23413",
+              "streets": [
+                {
+                  "id": 71658,
+                  "name": "ENG'AROOJI"
+                },
+                {
+                  "id": 71656,
+                  "name": "LEPURKO"
+                },
+                {
+                  "id": 71657,
+                  "name": "LOOSIMINGOR"
+                },
+                {
+                  "id": 71659,
+                  "name": "NANJA"
+                }
+              ]
+            },
+            {
+              "id": 71629,
+              "name": "LOLKISALE",
+              "postcode": "23407",
+              "streets": [
+                {
+                  "id": 71630,
+                  "name": "LOLKISALE"
+                },
+                {
+                  "id": 71631,
+                  "name": "NAFCO"
+                },
+                {
+                  "id": 71632,
+                  "name": "TUKUSI"
+                }
+              ]
+            },
+            {
+              "id": 71648,
+              "name": "MAJENGO",
+              "postcode": "23411",
+              "streets": [
+                {
+                  "id": 71649,
+                  "name": "MAJENGO"
+                },
+                {
+                  "id": 71650,
+                  "name": "MIGOMBANI"
+                }
+              ]
+            },
+            {
+              "id": 71651,
+              "name": "MAKUYUNI",
+              "postcode": "23412",
+              "streets": [
+                {
+                  "id": 71652,
+                  "name": "MAKUYUNI"
+                },
+                {
+                  "id": 71654,
+                  "name": "MBUYUNI"
+                },
+                {
+                  "id": 71653,
+                  "name": "NAITI"
+                }
+              ]
+            },
+            {
+              "id": 71620,
+              "name": "MESERANI",
+              "postcode": "23405",
+              "streets": [
+                {
+                  "id": 71622,
+                  "name": "MESERANI BWAWANI"
+                },
+                {
+                  "id": 109425,
+                  "name": "MESERANI JUU"
+                }
+              ]
+            },
+            {
+              "id": 71668,
+              "name": "MFEREJI",
+              "postcode": "23416",
+              "streets": [
+                {
+                  "id": 71671,
+                  "name": "EMURUA"
+                },
+                {
+                  "id": 71669,
+                  "name": "IDONYONAADO"
+                },
+                {
+                  "id": 71672,
+                  "name": "KOMESHA"
+                },
+                {
+                  "id": 71670,
+                  "name": "MFEREJI"
+                }
+              ]
+            },
+            {
+              "id": 71684,
+              "name": "MIGUNGANI",
+              "postcode": "23420",
+              "streets": [
+                {
+                  "id": 71687,
+                  "name": "KIGONGONI"
+                },
+                {
+                  "id": 71685,
+                  "name": "MIGUNGANI A"
+                },
+                {
+                  "id": 71686,
+                  "name": "MIGUNGANI B"
+                }
+              ]
+            },
+            {
+              "id": 71623,
+              "name": "MOITA",
+              "postcode": "23406",
+              "streets": [
+                {
+                  "id": 71628,
+                  "name": "KILIMATINDE"
+                },
+                {
+                  "id": 71625,
+                  "name": "KILORITI KIPOK"
+                },
+                {
+                  "id": 71626,
+                  "name": "LOOLERA"
+                },
+                {
+                  "id": 71627,
+                  "name": "MOITA BWAWANI"
+                },
+                {
+                  "id": 71624,
+                  "name": "MOITA KILORITI"
+                }
+              ]
+            },
+            {
+              "id": 71616,
+              "name": "MONDULI JUU",
+              "postcode": "23404",
+              "streets": [
+                {
+                  "id": 71618,
+                  "name": "ELUAI"
+                },
+                {
+                  "id": 71617,
+                  "name": "EMAIRETE"
+                },
+                {
+                  "id": 71619,
+                  "name": "ENGUIKI"
+                }
+              ]
+            },
+            {
+              "id": 71606,
+              "name": "MONDULI MJINI",
+              "postcode": "23401",
+              "streets": [
+                {
+                  "id": 104268,
+                  "name": "MONDULI MAGHARIBI"
+                },
+                {
+                  "id": 104269,
+                  "name": "MONDULI MASHARIKI"
+                },
+                {
+                  "id": 104266,
+                  "name": "SABASABA"
+                },
+                {
+                  "id": 104267,
+                  "name": "SINON KATI"
+                }
+              ]
+            },
+            {
+              "id": 71633,
+              "name": "MSWAKINI",
+              "postcode": "23408",
+              "streets": [
+                {
+                  "id": 107482,
+                  "name": "MSWAKINI CHINI"
+                },
+                {
+                  "id": 71636,
+                  "name": "MSWAKINI JUU"
+                },
+                {
+                  "id": 71634,
+                  "name": "NAITOLIA"
+                }
+              ]
+            },
+            {
+              "id": 71643,
+              "name": "MTO WA MBU",
+              "postcode": "23410",
+              "streets": [
+                {
+                  "id": 71644,
+                  "name": "BARABARANI"
+                },
+                {
+                  "id": 71646,
+                  "name": "JANGWANI"
+                },
+                {
+                  "id": 71645,
+                  "name": "KISUTU"
+                },
+                {
+                  "id": 107696,
+                  "name": "MAGADINI"
+                }
+              ]
+            },
+            {
+              "id": 71676,
+              "name": "NAALARAMI",
+              "postcode": "23418",
+              "streets": [
+                {
+                  "id": 71679,
+                  "name": "ENGORIKA"
+                },
+                {
+                  "id": 71678,
+                  "name": "LENGILORITI"
+                },
+                {
+                  "id": 71677,
+                  "name": "NAALARAMI"
+                }
+              ]
+            },
+            {
+              "id": 71660,
+              "name": "SELELA",
+              "postcode": "23414",
+              "streets": [
+                {
+                  "id": 71662,
+                  "name": "MBAASH"
+                },
+                {
+                  "id": 71661,
+                  "name": "SELELA"
+                }
+              ]
+            },
+            {
+              "id": 71611,
+              "name": "SEPEKO",
+              "postcode": "23403",
+              "streets": [
+                {
+                  "id": 71613,
+                  "name": "ARKARIA"
+                },
+                {
+                  "id": 71615,
+                  "name": "ARKATAN"
+                },
+                {
+                  "id": 71614,
+                  "name": "LENDIKINYA"
+                },
+                {
+                  "id": 71612,
+                  "name": "MTI MMOJA"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 70911,
+      "name": "NGORONGORO",
+      "councils": [
+        {
+          "id": 70930,
+          "name": "NGORONGORO DISTRICT COUNCIL",
+          "wards": [
+            {
+              "id": 71880,
+              "name": "ALAILELAI",
+              "postcode": "23716",
+              "streets": [
+                {
+                  "id": 71881,
+                  "name": "ALAILELAI"
+                },
+                {
+                  "id": 71882,
+                  "name": "OLCHANIOMELOK"
+                },
+                {
+                  "id": 71883,
+                  "name": "SENDUI"
+                }
+              ]
+            },
+            {
+              "id": 71911,
+              "name": "ALAITOLEI",
+              "postcode": "23726",
+              "streets": [
+                {
+                  "id": 71913,
+                  "name": "ALAITOLEI"
+                },
+                {
+                  "id": 71912,
+                  "name": "ESERE"
+                }
+              ]
+            },
+            {
+              "id": 71856,
+              "name": "ARASH",
+              "postcode": "23707",
+              "streets": [
+                {
+                  "id": 71857,
+                  "name": "ARASH"
+                },
+                {
+                  "id": 71859,
+                  "name": "MBUKEN"
+                },
+                {
+                  "id": 71860,
+                  "name": "OLALAA"
+                },
+                {
+                  "id": 71858,
+                  "name": "ORMANIE"
+                }
+              ]
+            },
+            {
+              "id": 71868,
+              "name": "DIGODIGO",
+              "postcode": "23710",
+              "streets": [
+                {
+                  "id": 71869,
+                  "name": "DIGODIGO"
+                }
+              ]
+            },
+            {
+              "id": 71896,
+              "name": "ENDULENI",
+              "postcode": "23720",
+              "streets": [
+                {
+                  "id": 71897,
+                  "name": "ENDULENI"
+                },
+                {
+                  "id": 71898,
+                  "name": "NASPORIONG'"
+                }
+              ]
+            },
+            {
+              "id": 71918,
+              "name": "ENGARESERO",
+              "postcode": "23728",
+              "streets": [
+                {
+                  "id": 71919,
+                  "name": "ENGARESERO"
+                }
+              ]
+            },
+            {
+              "id": 71841,
+              "name": "ENGUSEROSAMBU",
+              "postcode": "23704",
+              "streets": [
+                {
+                  "id": 71842,
+                  "name": "ENGUSEROSAMBU"
+                },
+                {
+                  "id": 71844,
+                  "name": "NAAN"
+                },
+                {
+                  "id": 71843,
+                  "name": "NG'ARWA"
+                },
+                {
+                  "id": 71845,
+                  "name": "ORKIU JUU"
+                }
+              ]
+            },
+            {
+              "id": 71908,
+              "name": "EYASI",
+              "postcode": "23725",
+              "streets": [
+                {
+                  "id": 71910,
+                  "name": "MASAMBURAI"
+                },
+                {
+                  "id": 71909,
+                  "name": "OLPIRO"
+                }
+              ]
+            },
+            {
+              "id": 71899,
+              "name": "KAKESIO",
+              "postcode": "23721",
+              "streets": [
+                {
+                  "id": 71900,
+                  "name": "KAKESIO"
+                },
+                {
+                  "id": 71901,
+                  "name": "OSINONI"
+                }
+              ]
+            },
+            {
+              "id": 71914,
+              "name": "KIRANGI",
+              "postcode": "23727",
+              "streets": [
+                {
+                  "id": 71915,
+                  "name": "KISANGIRO"
+                },
+                {
+                  "id": 71916,
+                  "name": "MUGHOLO"
+                },
+                {
+                  "id": 71917,
+                  "name": "TINAGA"
+                }
+              ]
+            },
+            {
+              "id": 71851,
+              "name": "MAALON",
+              "postcode": "23706",
+              "streets": [
+                {
+                  "id": 71852,
+                  "name": "LOOSOITO"
+                },
+                {
+                  "id": 71854,
+                  "name": "LOSHWASH"
+                },
+                {
+                  "id": 71853,
+                  "name": "MAALON"
+                },
+                {
+                  "id": 71855,
+                  "name": "NGOBERETI"
+                }
+              ]
+            },
+            {
+              "id": 71875,
+              "name": "MALAMBO",
+              "postcode": "23714",
+              "streets": [
+                {
+                  "id": 71877,
+                  "name": "MADUKANI"
+                },
+                {
+                  "id": 71876,
+                  "name": "MALAMBO"
+                }
+              ]
+            },
+            {
+              "id": 71904,
+              "name": "MISIGIYO",
+              "postcode": "23724",
+              "streets": [
+                {
+                  "id": 71905,
+                  "name": "KAITAKITENG'"
+                },
+                {
+                  "id": 71906,
+                  "name": "LONGOOJO"
+                },
+                {
+                  "id": 71907,
+                  "name": "MISIGIYO"
+                }
+              ]
+            },
+            {
+              "id": 71888,
+              "name": "NAINOKANOKA",
+              "postcode": "23718",
+              "streets": [
+                {
+                  "id": 71889,
+                  "name": "BULATI"
+                },
+                {
+                  "id": 71891,
+                  "name": "IRKEEPUS"
+                },
+                {
+                  "id": 71890,
+                  "name": "NAINOKANOKA"
+                }
+              ]
+            },
+            {
+              "id": 71884,
+              "name": "NAIYOBI",
+              "postcode": "23717",
+              "streets": [
+                {
+                  "id": 71886,
+                  "name": "ITULELE"
+                },
+                {
+                  "id": 71887,
+                  "name": "KAPENJIRO"
+                },
+                {
+                  "id": 71885,
+                  "name": "NAIYOBI"
+                }
+              ]
+            },
+            {
+              "id": 71902,
+              "name": "NGOILE",
+              "postcode": "23723",
+              "streets": [
+                {
+                  "id": 71903,
+                  "name": "NGOILE"
+                }
+              ]
+            },
+            {
+              "id": 71892,
+              "name": "NGORONGORO",
+              "postcode": "23719",
+              "streets": [
+                {
+                  "id": 71895,
+                  "name": "KAYAPUS"
+                },
+                {
+                  "id": 71894,
+                  "name": "MOKILAL"
+                },
+                {
+                  "id": 71893,
+                  "name": "OLOIROBI"
+                }
+              ]
+            },
+            {
+              "id": 71878,
+              "name": "OLBALBAL",
+              "postcode": "23715",
+              "streets": [
+                {
+                  "id": 71879,
+                  "name": "MESHILI"
+                }
+              ]
+            },
+            {
+              "id": 71870,
+              "name": "OLDONYOSAMBU",
+              "postcode": "23711",
+              "streets": [
+                {
+                  "id": 71872,
+                  "name": "JEMA"
+                },
+                {
+                  "id": 71871,
+                  "name": "OLDONYOSAMBU"
+                }
+              ]
+            },
+            {
+              "id": 71837,
+              "name": "OLOIPIRI",
+              "postcode": "23703",
+              "streets": [
+                {
+                  "id": 71838,
+                  "name": "OLOIPIRI"
+                },
+                {
+                  "id": 71840,
+                  "name": "ORKUYENE"
+                },
+                {
+                  "id": 71839,
+                  "name": "SUKENYA"
+                }
+              ]
+            },
+            {
+              "id": 71865,
+              "name": "OLOLOSOKWAN",
+              "postcode": "23709",
+              "streets": [
+                {
+                  "id": 71867,
+                  "name": "NJOROI"
+                },
+                {
+                  "id": 71866,
+                  "name": "OLOLOSOKWAN"
+                }
+              ]
+            },
+            {
+              "id": 71832,
+              "name": "OLORIEN/MAGAIDURU",
+              "postcode": "23702",
+              "streets": [
+                {
+                  "id": 71836,
+                  "name": "LOPOLUN"
+                },
+                {
+                  "id": 71834,
+                  "name": "MAGAIDURU"
+                },
+                {
+                  "id": 71835,
+                  "name": "OLDONYOWAS"
+                },
+                {
+                  "id": 71833,
+                  "name": "OLOIRIEN"
+                }
+              ]
+            },
+            {
+              "id": 71831,
+              "name": "ORGOSOROK",
+              "postcode": "23701",
+              "streets": [
+                {
+                  "id": 101404,
+                  "name": "BWAWANI"
+                },
+                {
+                  "id": 101514,
+                  "name": "KAPONGONI"
+                },
+                {
+                  "id": 101507,
+                  "name": "KISAMIS"
+                },
+                {
+                  "id": 101515,
+                  "name": "LEKONDYA"
+                },
+                {
+                  "id": 101403,
+                  "name": "LOLIONDO MAGHARIBI"
+                },
+                {
+                  "id": 101402,
+                  "name": "LOLIONDO MASHARIKI"
+                },
+                {
+                  "id": 101405,
+                  "name": "MAKALASINGA"
+                },
+                {
+                  "id": 101406,
+                  "name": "NDIPILIKWA"
+                },
+                {
+                  "id": 101512,
+                  "name": "OLETET"
+                },
+                {
+                  "id": 101509,
+                  "name": "OLTUROTO"
+                },
+                {
+                  "id": 101520,
+                  "name": "WASSO KASKAZINI"
+                },
+                {
+                  "id": 101519,
+                  "name": "WASSO MAGHARIBI"
+                },
+                {
+                  "id": 101518,
+                  "name": "WASSO MASHARIKI"
+                }
+              ]
+            },
+            {
+              "id": 70949,
+              "name": "PINYINYI",
+              "postcode": "23713",
+              "streets": [
+                {
+                  "id": 70968,
+                  "name": "PINYINYI"
+                }
+              ]
+            },
+            {
+              "id": 71920,
+              "name": "PIYAYA",
+              "postcode": "23729",
+              "streets": [
+                {
+                  "id": 71921,
+                  "name": "PIYAYA"
+                }
+              ]
+            },
+            {
+              "id": 71873,
+              "name": "SALE",
+              "postcode": "23712",
+              "streets": [
+                {
+                  "id": 71874,
+                  "name": "SALE"
+                }
+              ]
+            },
+            {
+              "id": 71846,
+              "name": "SAMUNGE",
+              "postcode": "23705",
+              "streets": [
+                {
+                  "id": 71850,
+                  "name": "MAGERI"
+                },
+                {
+                  "id": 71848,
+                  "name": "MUGONGO"
+                },
+                {
+                  "id": 71847,
+                  "name": "SAMUNGE"
+                },
+                {
+                  "id": 71849,
+                  "name": "YASIMDITO"
+                }
+              ]
+            },
+            {
+              "id": 71861,
+              "name": "SOITSAMBU",
+              "postcode": "23708",
+              "streets": [
+                {
+                  "id": 71862,
+                  "name": "KIRTALO"
+                },
+                {
+                  "id": 71863,
+                  "name": "MONDOROSI"
+                },
+                {
+                  "id": 71864,
+                  "name": "SOITSAMBU"
+                }
+              ]
             }
           ]
         }
