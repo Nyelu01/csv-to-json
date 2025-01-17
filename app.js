@@ -11,7 +11,7 @@ function processExcelFile(filePath, callback) {
     const sheetName = workbook.SheetNames[0]; // Use the first sheet
     const sheetData = xlsx.utils.sheet_to_json(workbook.Sheets[sheetName]);
 
-    let result = null;
+    const result = {};
 
     sheetData.forEach((row) => {
         const {
@@ -29,23 +29,25 @@ function processExcelFile(filePath, callback) {
         } = row;
 
         // Initialize the region if not already done
-        if (!result) {
-            result = {
+        if (!result[RegionId]) {
+            result[RegionId] = {
                 id: parseInt(RegionId, 10),
                 name: Region,
                 districts: [],
             };
         }
 
+        const region = result[RegionId];
+
         // Find or add the district
-        let district = result.districts.find((d) => d.id === parseInt(DistrictId, 10));
+        let district = region.districts.find((d) => d.id === parseInt(DistrictId, 10));
         if (!district) {
             district = {
                 id: parseInt(DistrictId, 10),
                 name: District,
                 councils: [],
             };
-            result.districts.push(district);
+            region.districts.push(district);
         }
 
         // Find or add the council
@@ -80,7 +82,30 @@ function processExcelFile(filePath, callback) {
         }
     });
 
-    callback(result);
+    // The result now contains nested regions, districts, councils, wards, and streets
+    const finalResult = Object.values(result).map((region) => ({
+        id: region.id,
+        name: region.name,
+        districts: region.districts.map((district) => ({
+            id: district.id,
+            name: district.name,
+            councils: district.councils.map((council) => ({
+                id: council.id,
+                name: council.name,
+                wards: council.wards.map((ward) => ({
+                    id: ward.id,
+                    name: ward.name,
+                    postcode: ward.postcode,
+                    streets: ward.streets.map((street) => ({
+                        id: street.id,
+                        name: street.name,
+                    })),
+                })),
+            })),
+        })),
+    }));
+
+    callback(finalResult);
 }
 
 /**
