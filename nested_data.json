@@ -1,39 +1,37 @@
-[
-  {
-    "id": 88621,
-    "name": "DAR ES SALAAM",
-    "districts": [
-      {
-        "id": 72184,
-        "name": "ILALA",
-        "councils": [
-          {
-            "id": 72185,
-            "name": "DAR ES SALAAM CITY COUNCIL",
-            "wards": [
-              {
-                "id": 72305,
-                "name": "BONYOKWA",
-                "postcode": 12120,
-                "streets": [
-                  {
-                    "id": 72306,
-                    "name": "BONYOKWA"
-                  },
-                  {
-                    "id": 72307,
-                    "name": "KISIWANI"
-                  },
-                  {
-                    "id": 72308,
-                    "name": "MSINGWA"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  }
-]
+{
+  "id": 88621,
+  "name": "DAR ES SALAAM",
+  "districts": [
+    {
+      "id": 72184,
+      "name": "ILALA",
+      "councils": [
+        {
+          "id": 72185,
+          "name": "DAR ES SALAAM CITY COUNCIL",
+          "wards": [
+            {
+              "id": 72305,
+              "name": "BONYOKWA",
+              "postcode": 12120,
+              "streets": [
+                {
+                  "id": 72306,
+                  "name": "BONYOKWA"
+                },
+                {
+                  "id": 72307,
+                  "name": "KISIWANI"
+                },
+                {
+                  "id": 72308,
+                  "name": "MSINGWA"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

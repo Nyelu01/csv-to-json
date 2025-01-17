@@ -1,8 +1,8 @@
 const fs = require('fs');
 const csv = require('csv-parser');
 
-// Read and process the CSV file
-function processCsvFile(filePath, callback) {
+// Read and process the CSV file for a specific region
+function processCsvFile(filePath, regionId, callback) {
     const result = {};
 
     fs.createReadStream(filePath)
@@ -22,25 +22,25 @@ function processCsvFile(filePath, callback) {
                 street_name
             } = row;
 
+            // Process only the specified region
+            if (parseInt(region_id) !== regionId) return;
+
             // Find or create the region
-            if (!result[region_id]) {
-                result[region_id] = {
-                    id: parseInt(region_id),
-                    name: region_name,
-                    districts: []
-                };
+            if (!result.id) {
+                result.id = parseInt(region_id);
+                result.name = region_name;
+                result.districts = [];
             }
-            const region = result[region_id];
 
             // Find or create the district
-            let district = region.districts.find(d => d.id === parseInt(district_id));
+            let district = result.districts.find(d => d.id === parseInt(district_id));
             if (!district) {
                 district = {
                     id: parseInt(district_id),
                     name: district_name,
                     councils: []
                 };
-                region.districts.push(district);
+                result.districts.push(district);
             }
 
             // Find or create the council
@@ -75,7 +75,7 @@ function processCsvFile(filePath, callback) {
             }
         })
         .on('end', () => {
-            callback(Object.values(result)); // Convert the result object to an array
+            callback(result);
         });
 }
 
@@ -88,9 +88,10 @@ function saveAsJson(data, outputFilePath) {
 // Main execution
 const inputFilePath = 'data.csv'; // Input CSV file
 const outputFilePath = 'nested_data.json'; // Output JSON file
+const regionId = 88621; // Specify the region ID you want to process
 
 try {
-    processCsvFile(inputFilePath, (nestedData) => {
+    processCsvFile(inputFilePath, regionId, (nestedData) => {
         saveAsJson(nestedData, outputFilePath);
     });
 } catch (error) {
