@@ -1,31 +1,233 @@
 {
-  "id": 88621,
-  "name": "DAR ES SALAAM",
+  "id": 70894,
+  "name": "ARUSHA",
   "districts": [
     {
-      "id": 72184,
-      "name": "ILALA",
+      "id": 71485,
+      "name": "ARUMERU",
       "councils": [
         {
-          "id": 72185,
-          "name": "DAR ES SALAAM CITY COUNCIL",
+          "id": 71390,
+          "name": "ARUSHA DISTRICT COUNCIL",
           "wards": [
             {
-              "id": 72305,
-              "name": "BONYOKWA",
-              "postcode": 12120,
+              "id": 71415,
+              "name": "BANGATA",
+              "postcode": "23207",
               "streets": [
                 {
-                  "id": 72306,
-                  "name": "BONYOKWA"
+                  "id": 71416,
+                  "name": "BANGATA"
                 },
                 {
-                  "id": 72307,
-                  "name": "KISIWANI"
+                  "id": 71417,
+                  "name": "MIDAWE"
                 },
                 {
-                  "id": 72308,
-                  "name": "MSINGWA"
+                  "id": 71418,
+                  "name": "SASI"
+                }
+              ]
+            },
+            {
+              "id": 71457,
+              "name": "BWAWANI",
+              "postcode": "23220",
+              "streets": [
+                {
+                  "id": 71458,
+                  "name": "BWAWANI"
+                },
+                {
+                  "id": 71461,
+                  "name": "KIGONGONI"
+                },
+                {
+                  "id": 71460,
+                  "name": "MUNGUSHI"
+                },
+                {
+                  "id": 71459,
+                  "name": "THEMI YA SIMBA"
+                }
+              ]
+            },
+            {
+              "id": 71484,
+              "name": "ILBORU",
+              "postcode": "23227",
+              "streets": [
+                {
+                  "id": 110271,
+                  "name": "MERITI"
+                },
+                {
+                  "id": 110272,
+                  "name": "OLTULELEI"
+                }
+              ]
+            },
+            {
+              "id": 71425,
+              "name": "ILKIDING'A",
+              "postcode": "23211",
+              "streets": [
+                {
+                  "id": 71426,
+                  "name": "ILKIDING'A"
+                },
+                {
+                  "id": 71428,
+                  "name": "ILKISONGO"
+                },
+                {
+                  "id": 71427,
+                  "name": "OLOIGERUNO"
+                }
+              ]
+            },
+            {
+              "id": 71433,
+              "name": "KIMNYAK",
+              "postcode": "23213",
+              "streets": [
+                {
+                  "id": 71436,
+                  "name": "KIMNYAK"
+                },
+                {
+                  "id": 71435,
+                  "name": "OLEVOLOS"
+                },
+                {
+                  "id": 71434,
+                  "name": "OLMURINGARINGA"
+                }
+              ]
+            },
+            {
+              "id": 71423,
+              "name": "KIRANYI",
+              "postcode": "23209",
+              "streets": [
+                {
+                  "id": 110555,
+                  "name": "ILKIUREI"
+                },
+                {
+                  "id": 110554,
+                  "name": "KIRANYI"
+                },
+                {
+                  "id": 110553,
+                  "name": "NAMAYANA"
+                },
+                {
+                  "id": 110559,
+                  "name": "SIWANDETI"
+                }
+              ]
+            },
+            {
+              "id": 71410,
+              "name": "KISONGO",
+              "postcode": "23206",
+              "streets": [
+                {
+                  "id": 71411,
+                  "name": "ENGORORA"
+                },
+                {
+                  "id": 71412,
+                  "name": "ILKERIN"
+                },
+                {
+                  "id": 71413,
+                  "name": "LESIRAA"
+                },
+                {
+                  "id": 71414,
+                  "name": "LOOVILUKUNY"
+                }
+              ]
+            },
+            {
+              "id": 71478,
+              "name": "KIUTU",
+              "postcode": "23225",
+              "streets": [
+                {
+                  "id": 71481,
+                  "name": "ENGORIKA"
+                },
+                {
+                  "id": 71480,
+                  "name": "NAUREI"
+                },
+                {
+                  "id": 71482,
+                  "name": "OLGILAI"
+                },
+                {
+                  "id": 71479,
+                  "name": "SEKEI"
+                }
+              ]
+            },
+            {
+              "id": 71474,
+              "name": "LAROI",
+              "postcode": "23224",
+              "streets": [
+                {
+                  "id": 71476,
+                  "name": "ENJORO"
+                },
+                {
+                  "id": 71477,
+                  "name": "KISIMA CHA MUNGU"
+                },
+                {
+                  "id": 71475,
+                  "name": "LAROI"
+                }
+              ]
+            },
+            {
+              "id": 71465,
+              "name": "LEMANYATA",
+              "postcode": "23222",
+              "streets": [
+                {
+                  "id": 71466,
+                  "name": "LEMANYATA"
+                },
+                {
+                  "id": 71468,
+                  "name": "LENJANI"
+                },
+                {
+                  "id": 71467,
+                  "name": "OLKOKOLA"
+                }
+              ]
+            },
+            {
+              "id": 71397,
+              "name": "LENGIJAVE",
+              "postcode": "23203",
+              "streets": [
+                {
+                  "id": 71399,
+                  "name": "ILKUROT"
+                },
+                {
+                  "id": 71400,
+                  "name": "LENGIJAVE"
+                },
+                {
+                  "id": 71398,
+                  "name": "OLKEJULENDERIT"
                 }
               ]
             }
